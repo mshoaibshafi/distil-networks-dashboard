@@ -1,0 +1,348 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"req",
+				"requests_per_minute"
+			],
+			[
+				"mach",
+				"machine_learning_action"
+			],
+			[
+				"ma",
+				"machine_learning_threshold"
+			],
+			[
+				"web",
+				"web_security_settings"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"we",
+				"web_security_settings"
+			],
+			[
+				"cre",
+				"createDashboard"
+			],
+			[
+				"domain",
+				"domain_name"
+			],
+			[
+				"w",
+				"w_info"
+			],
+			[
+				"ex",
+				"extractWebSecurityInfo"
+			],
+			[
+				"domainId",
+				"domainId"
+			],
+			[
+				"do",
+				"domain_name"
+			],
+			[
+				"ext",
+				"extractDomainInfo"
+			],
+			[
+				"de",
+				"delimiter"
+			],
+			[
+				"dom",
+				"domains"
+			],
+			[
+				"resp",
+				"resp_data"
+			],
+			[
+				"accou",
+				"accountId"
+			],
+			[
+				"all",
+				"all_pools"
+			],
+			[
+				"F",
+				"F5_MGMT"
+			],
+			[
+				"M",
+				"Migrate_Pools"
+			],
+			[
+				"pool",
+				"pool_config_param"
+			],
+			[
+				"poo",
+				"pool_config_param"
+			],
+			[
+				"Cre",
+				"Create_Pool"
+			],
+			[
+				"f5",
+				"f5_mgmt"
+			],
+			[
+				"vir",
+				"virt_config_param"
+			],
+			[
+				"exist",
+				"exists"
+			],
+			[
+				"Vi",
+				"Virtual_Config_Param"
+			],
+			[
+				"Fi",
+				"FizzBuzz"
+			],
+			[
+				"f",
+				"Full"
+			],
+			[
+				"Pol",
+				"Pool_name"
+			],
+			[
+				"Pool",
+				"Pool"
+			],
+			[
+				"fil",
+				"files_d"
+			],
+			[
+				"util",
+				"utilCmdArgs"
+			],
+			[
+				"co",
+				"commandResult"
+			],
+			[
+				"cmdarg",
+				"cmdargs"
+			],
+			[
+				"cmdargs",
+				"utilCmdArgs"
+			],
+			[
+				"C",
+				"Common_d"
+			],
+			[
+				"dg",
+				"dglist"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mshoaib/Documents/Paciolan/Automation/distil-networks/domain_file.csv",
+		"/Users/mshoaib/Documents/Paciolan/Automation/distil-networks/findDomainID.py",
+		"/Users/mshoaib/Documents/Paciolan/Automation/distil-networks/Test.py",
+		"/Users/mshoaib/Documents/Paciolan/Cloud/AWS/boto/aws-python-sample/list_ec2_instances.py",
+		"/Users/mshoaib/Documents/Paciolan/Cloud/AWS/boto/aws-python-sample/list_ec2_instances_2.py",
+		"/Users/mshoaib/Documents/Paciolan/Automation/f5-sdk/Configure_BigIP/Delete_Virtual.py",
+		"/Users/mshoaib/Documents/Paciolan/Automation/f5-sdk/Configure_BigIP/Delete_Pool.py",
+		"/Users/mshoaib/Documents/Paciolan/Automation/f5-sdk/Configure_BigIP/Variable.py",
+		"/Users/mshoaib/Documents/Paciolan/Automation/f5-sdk/Configure_BigIP/Create-Pool.py",
+		"/Users/mshoaib/Documents/Paciolan/Automation/f5-sdk/first-f5-sdk.py",
+		"/Users/mshoaib/Documents/Paciolan/Python Udemy Course/Function Practice Exercises",
+		"/Users/mshoaib/Documents/Paciolan/f5-sdk/get-datagroup.py",
+		"/Users/mshoaib/Documents/Paciolan/f5-sdk/get-datagroup-2.py",
+		"/Users/mshoaib/Documents/Paciolan/Python Udemy Course/create pools tmsh command.py",
+		"/Users/mshoaib/Documents/Ansible/f5-ansible/examples/0000-getting-started/host_vars/labbigip3600-pools.yaml",
+		"/Users/mshoaib/Documents/Ansible/f5-ansible/examples/0000-getting-started/host_vars/labbigip3600.yaml",
+		"/Users/mshoaib/Documents/Ansible/f5-ansible/examples/0000-getting-started/playbook.lab.3600.virtual.yaml",
+		"/Users/mshoaib/Documents/Ansible/f5-ansible/examples/0000-getting-started/playbook.lab.3600.pools.yaml",
+		"/Users/mshoaib/Documents/Ansible/f5-ansible/examples/0000-getting-started/host_vars/labbigip3600-ssl-profile.yaml",
+		"/Users/mshoaib/Documents/Ansible/f5-ansible/examples/0000-getting-started/playbook.lab.3600.ssl-profile.yaml",
+		"/Users/mshoaib/Documents/Ansible/f5-ansible/examples/0000-getting-started/host_vars/labbigip3600-data-group.yaml",
+		"/Users/mshoaib/Documents/Ansible/f5-ansible/examples/0000-getting-started/playbook.lab.3600.data-group.yaml",
+		"/Users/mshoaib/Documents/Paciolan/f5-sdk/get-virtual.py",
+		"/Users/mshoaib/Documents/Ansible/f5-ansible/examples/0000-getting-started/playbook.bigip_command.yaml",
+		"/Users/mshoaib/Documents/Python Udemy Course/First.py",
+		"/Users/mshoaib/Documents/Ansible/f5-ansible/examples/0000-getting-started/playbook.lab.3600.display.virtual.yaml",
+		"/Users/mshoaib/Documents/Ansible/f5-ansible/examples/0000-getting-started/host_vars/labbigip2800.yaml",
+		"/Users/mshoaib/Documents/Ansible/f5-ansible/examples/0000-getting-started/playbook.lab.3600.yaml",
+		"/Users/mshoaib/Documents/Ansible/f5-ansible/examples/ansible.cfg",
+		"/Users/muhammad shoaib/ansible/ec2/tasks/untitled.sh",
+		"/Users/muhammad shoaib/ansible/ec2/tasks/demo_setup.yml",
+		"/Users/muhammad shoaib/Downloads/14501 Savin Ave - Rent verification letter.pdf"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
